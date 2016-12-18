@@ -1,8 +1,8 @@
 #Security Documentation and Threat Modelling Tool for Java
 ##Secuirty Now
-In my understanding thoughts also have evolution. By influencing each other with any form of communication thoughts have also changed. These changes are viable or non-viable in a certain space and time. Security is a subjective definition (it is much more a feeling) that has transformed and evovled in the last few decades.
-I beleive that this is the time when Security entered the next level. Indistry is not ignoring the fact that there are cyber-threats any more and lately stopped whining and focused on the security in a professional point of view. The days of security peddlers and showmen are nearly over and a new era with more professional and pragramatic approach will rise.
-This project would like to aid this transformation in a form code building on the foundation of OWASP which is one the most important initiatives that helped this evolution.
+I like to think about human thoughts as something that has also a kind of evolution. My and your thoughts are also changing when influencing each other with any form of communication. These changes are viable or non-viable in a certain space and time (meme theory). Security is a subjective definition (it is much more a feeling) that has transformed and evovled in the last few decade.
+I beleive that now is the time when Security entered the its next stage. IT Industry is not ignoring the fact any more that there are cyber-threats and lately stopped whining and focused on the security in a professional point of view. The days of security peddlers and showmen are nearly over and a new era with more professional and pragramatic approach will rise.
+Secuirty4j project would like to aid this transformation in a form of tool for java SDLC. The project is building on the foundations of OWASP which is one the most important initiatives that helped the evolution of software secuirty.
 ##Sources and Inspiraion
 This is an initial document which collects inspirational information and definitions focused on the area of threat modelling. Most of the quotes are originated from OWASP pages.
 #Quotes and Memos
